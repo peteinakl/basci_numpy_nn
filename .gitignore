@@ -1,0 +1,35 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtualenv
+.venv*
+venv*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Vim temp files
+*.swp
+
+# Cert and CSR files
+*.pem
+*.csr
+*.key
+*.crt
+
+# Pantsbuild
+.pants*
+.cache
+dist
